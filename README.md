@@ -51,7 +51,6 @@
       <li><strong>Earthquake_Visualization.ipynb</strong> – Jupyter notebook with all visualizations</li>
       <li><strong>Earthquake_Case_Study.pdf</strong> – Final report with insights and conclusions</li>
       <li><strong>earthquake_alert_balanced_dataset.csv</strong> – Source dataset</li>
-    
     </ul>
 
     <h2>Technologies Used</h2>
