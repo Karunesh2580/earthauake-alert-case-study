@@ -13,7 +13,6 @@
   <li><code>Earthquake_Visualization.ipynb</code>: Jupyter Notebook with all visualizations</li>
   <li><code>Earthquake_Case_Study.pdf</code>: Final report with insights and conclusions</li>
   <li><code>earthquake_alert_balanced_dataset.csv</code>: Source dataset</li>
-  <li><code>earthquake_visuals.py</code>: Python script version of the notebook</li>
 </ul>
 
 <h2>🛠️ Technologies Used</h2>
@@ -41,10 +40,8 @@
 
 <h2>👨‍💻 Author</h2>
 <ul>
-  <li><strong>Name</strong>: Jatin</li>
+  <li><strong>Name</strong>: Karunesh Kr Pandey</li>
   <li><strong>Course</strong>: MCA</li>
-  <li><strong>Project Type</strong>: Academic Case Study</li>
-  <li><strong>Submission Date</strong>: November 2025</li>
 </ul>
 
 <hr>
